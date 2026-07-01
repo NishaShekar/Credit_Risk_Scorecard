@@ -48,3 +48,6 @@ Synthetic retail credit dataset containing borrower demographics, loan details, 
 - Model interpretability
 - Risk segmentation
 - End-to-end ML pipeline
+
+## Streamlit app
+- https://credit-risk-scorecard-deploy.streamlit.app/
